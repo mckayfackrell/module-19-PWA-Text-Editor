@@ -8,10 +8,10 @@ An application called PWA Text Editor which allows for a user to create notes or
 |---------|---------|
 | ![Screenshot 2023-02-09 at 13 04 17](https://user-images.githubusercontent.com/110206514/217924756-8f9f9310-8429-418d-a201-28ebf3ed3e0f.jpg)| ![Screenshot 2023-02-09 at 12 58 31](https://user-images.githubusercontent.com/110206514/217924395-a51def59-7a31-439e-8121-27ab9bafb87d.jpg) |
 
-[Deployed Heroku Application](url.com)
+[Deployed Heroku Application](https://jate-text-editor-module-19.herokuapp.com)
 
 ## Usage
-Click on this [link](url.com) to be redirected to the deployed application. There you can edit in the web browser just by typing. If you want to install the application you can click on the install button on the top left or in the url bar when using Google Chrome. This allows for the user to view and edit text without an internet connection.
+Click on this [link](https://jate-text-editor-module-19.herokuapp.com) to be redirected to the deployed application. There you can edit in the web browser just by typing. If you want to install the application you can click on the install button on the top left or in the url bar when using Google Chrome. This allows for the user to view and edit text without an internet connection.
 
 ## Authors and acknowledgment
 
