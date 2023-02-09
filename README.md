@@ -3,19 +3,15 @@
 
 An application called PWA Text Editor which allows for a user to create notes or code snippets with or without an internet connection so that they can reliably retrieve them for later use.
 
-## Screenshots and Video Walkthrough
-| Terminal | Tags | Categories | Products |
-|---------|---------|---------|---------|
-| image | image | image | image |
+## Screenshots and URL
+| Web Browser | PWA Application |
+|---------|---------|
+| ![Screenshot 2023-02-09 at 13 04 17](https://user-images.githubusercontent.com/110206514/217924756-8f9f9310-8429-418d-a201-28ebf3ed3e0f.jpg)| ![Screenshot 2023-02-09 at 12 58 31](https://user-images.githubusercontent.com/110206514/217924395-a51def59-7a31-439e-8121-27ab9bafb87d.jpg) |
 
-[URL](url.com)
-
-
-## Installation 
-
+[Deployed Heroku Application](url.com)
 
 ## Usage
-
+Click on this [link](url.com) to be redirected to the deployed application. There you can edit in the web browser just by typing. If you want to install the application you can click on the install button on the top left or in the url bar when using Google Chrome. This allows for the user to view and edit text without an internet connection.
 
 ## Authors and acknowledgment
 
@@ -28,56 +24,3 @@ Please refer to the LICENSE in the repo.
 ## Project status
 
 A week long course that should be submitted on February 7, 2023. Once submitted changes will most likely cease as new repositories going over new coding features will be added and more focus will be dedicated to them.
-
-## Homework Acceptance Criteria
-
-GIVEN a text editor web application
-
-WHEN I open my application in my editor
-
-THEN I should see a client server folder structure
-
-WHEN I run `npm run start` from the root directory
-
-THEN I find that my application should start up the backend and serve the client
-
-WHEN I run the text editor application from my terminal
-
-THEN I find that my JavaScript files have been bundled using webpack
-
-WHEN I run my webpack plugins
-
-THEN I find that I have a generated HTML file, service worker, and a manifest file
-
-WHEN I use next-gen JavaScript in my application
-
-THEN I find that the text editor still functions in the browser without errors
-
-WHEN I open the text editor
-
-THEN I find that IndexedDB has immediately created a database storage
-
-WHEN I enter content and subsequently click off of the DOM window
-
-THEN I find that the content in the text editor has been saved with IndexedDB
-
-WHEN I reopen the text editor after closing it
-
-THEN I find that the content in the text editor has been retrieved from our IndexedDB
-
-WHEN I click on the Install button
-
-THEN I download my web application as an icon on my desktop
-
-WHEN I load my web application
-
-THEN I should have a registered service worker using workbox
-
-WHEN I register a service worker
-
-THEN I should have my static assets pre cached upon loading 
-along with subsequent pages and static assets
-
-WHEN I deploy to Heroku
-
-THEN I should have proper build scripts for a webpack application
