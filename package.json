@@ -4,10 +4,10 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start:dev": "",
-    "start": "",
+    "dev": "webpack-dev-server",
+    "start": "webpack --watch",
     "server": "",
-    "build": "",
+    "build": "webpack --mode production",
     "install": "",
     "client": ""
   },
@@ -15,7 +15,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel": "^6.23.0",
+    "code-mirror-themes": "^1.0.0",
     "express": "^4.17.1",
+    "idb": "^6.1.2",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
